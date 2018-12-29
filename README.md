@@ -1,4 +1,4 @@
-# [AR Saas](https://ar.imysky.com/) &middot; 
+# [AR Saas](https://ar.imysky.com/) 
 
 ![Texture](https://github.com/texturegroup/texture/raw/master/docs/static/images/logo.png)
 
