@@ -4,6 +4,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) 
 
+![version](https://img.shields.io/badge/version-1.5.3-blue.svg?maxAge=2592000) ![gem](https://img.shields.io/badge/gem-2.2.0-blue.svg?maxAge=2592000)
 [![Platform](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS-orange.svg)](https://ar.imysky.com)
 [![Languages](https://img.shields.io/badge/languages-ObjC%20%7C%20Swift-orange.svg)](https://ar.imysky.com)
 
