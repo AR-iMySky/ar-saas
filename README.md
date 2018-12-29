@@ -14,8 +14,7 @@ Texture is available via CocoaPods or Carthage. See our [Installation](http://te
 
 ![image](docs/images/ar_example_03.png)  ![image](docs/images/ar_example_04.png)
 
-
-Texture is available via CocoaPods or Carthage. See our [Installation](http://texturegroup.org/docs/installation.html) guide for instructions.
+[More](https://itunes.apple.com/cn/app/id1105364011?mt=8) 
 
 ## Performance Gains
 
