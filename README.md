@@ -10,10 +10,8 @@ Texture is available via CocoaPods or Carthage. See our [Installation](http://te
 
 ## [Examples](https://itunes.apple.com/cn/app/id1105364011?mt=8) 
 
-![image](docs/images/ar_example_01.png) ![image](docs/images/ar_example_02.png)
-
-![image](docs/images/ar_example_03.png) ![image](docs/images/ar_example_04.png)
-
+![image](docs/images/ar_example_01.png)  ![image](docs/images/ar_example_02.png)
+![image](docs/images/ar_example_03.png)  ![image](docs/images/ar_example_04.png)
 
 ## Performance Gains
 
