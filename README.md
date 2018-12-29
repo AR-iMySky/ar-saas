@@ -31,7 +31,7 @@ Texture lets you move image decoding, text sizing and rendering, layout, and oth
 
 ## Release process
 
-For the release process see the [RELEASE] (https://ar.imysky.com).
+For the release process see the [RELEASE](https://ar.imysky.com).
 
 ## License
 
