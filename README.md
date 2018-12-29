@@ -1,16 +1,10 @@
 # [AR Saas](https://ar.imysky.com/) 
 
-![Texture](https://github.com/AR-iMySky/ar-saas/blob/master/docs/images/logo.png)
+![AR SaaS](https://github.com/AR-iMySky/ar-saas/blob/master/docs/images/logo.png)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://ar.imysky.com/)
 
 ![version](https://img.shields.io/badge/version-1.5.3-blue.svg?maxAge=2592000) ![gem](https://img.shields.io/badge/gem-2.2.0-blue.svg?maxAge=2592000)
-[![Platform](https://img.shields.io/badge/platforms-iOS%20%7C%20tvOS-orange.svg)](https://ar.imysky.com)
-[![Languages](https://img.shields.io/badge/languages-ObjC%20%7C%20Swift-orange.svg)](https://ar.imysky.com)
-
-[![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
-
 
 ## Installation
 
