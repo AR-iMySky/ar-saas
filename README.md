@@ -1,6 +1,6 @@
 # [AR Saas](https://ar.imysky.com/) 
 
-![AR SaaS](https://github.com/AR-iMySky/ar-saas/blob/master/docs/images/logo.png)
+![AR SaaS](http://imysky-saas-official-web-resource.oss-cn-beijing.aliyuncs.com/video/saas-new.mp4)
 
 ![version](https://img.shields.io/badge/version-1.5.3-blue.svg?maxAge=2592000) ![gem](https://img.shields.io/badge/gem-2.2.0-blue.svg?maxAge=2592000) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://ar.imysky.com/)
 
