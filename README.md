@@ -8,6 +8,15 @@
 
 Texture is available via CocoaPods or Carthage. See our [Installation](http://texturegroup.org/docs/installation.html) guide for instructions.
 
+## Examples
+
+![image](docs/images/examples/ar_example_01.jpg)
+![image](docs/images/examples/ar_example_02.jpg)
+![image](docs/images/examples/ar_example_03.jpg)
+![image](docs/images/examples/ar_example_04.jpg)
+
+Texture is available via CocoaPods or Carthage. See our [Installation](http://texturegroup.org/docs/installation.html) guide for instructions.
+
 ## Performance Gains
 
 Texture's basic unit is the `node`. An ASDisplayNode is an abstraction over `UIView`, which in turn is an abstraction over `CALayer`. Unlike views, which can only be used on the main thread, nodes are thread-safe: you can instantiate and configure entire hierarchies of them in parallel on background threads.
