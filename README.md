@@ -1,5 +1,5 @@
 # ar-saas
-免费在线创建和发布企业AR应用的工具平台, 3分钟,既可快速创建AR应用; 更多 [here](https://ar.imysky.com)
+免费在线创建和发布企业AR应用的工具平台, 3分钟,既可快速创建AR应用; 更多 [跳转](https://ar.imysky.com)
 
 ![Texture](https://github.com/texturegroup/texture/raw/master/docs/static/images/logo.png)
 
